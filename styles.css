@@ -1,0 +1,71 @@
+/* .NavBar_2_Style{
+    display: flex;
+    justify-content: center !important;
+} */
+
+.banner {
+  background-image: url("./assets/hero-bg-ar.jpg");
+  height: 25vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.Img_vender_Style {
+  border-radius: 2rem;
+  width: 6rem;
+}
+
+.Form_Movile_Style {
+  width: 40rem;
+  box-shadow: 2 2 2 #002f34;
+}
+.Border_Form_Solid {
+  border: solid 2px #002f34;
+}
+.Location_Style_div {
+  border: solid 2px #002f34;
+}
+.link-success {
+  color: #002f34;
+  font-weight: bold;
+  font-size: 1.1rem;
+  text-decoration: underline 2px;
+}
+
+.link-success:hover {
+  color: #002f34;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: rgb(140, 213, 213) !important;
+}
+.dropdown-item:hover {
+  color: rgb(140, 213, 213) !important;
+}
+
+.Form_Border_None {
+  border: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+  list-style-position: outside;
+}
+
+.P_Style {
+  margin-left: 3rem;
+}
+
+.footer2 {
+  background-color: #002f34;
+  color: white;
+}
+.footer2 a {
+  text-decoration: none;
+  color: white;
+}
